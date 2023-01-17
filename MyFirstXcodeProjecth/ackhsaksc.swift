@@ -6,3 +6,5 @@
 //
 
 import Foundation
+
+var k = 0
